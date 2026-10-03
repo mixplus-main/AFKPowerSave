@@ -8,7 +8,8 @@
     "ItemEntityRendererMixin",
     "EntityRenderDispatcherMixin",
     "BlockEntityRenderDispatcherMixin",
-    "WorldRendererMixin"
+    "WorldRendererMixin",
+    "SectionRenderStateMixin"
   ],
   "injectors": {
     "defaultRequire": 1
